@@ -1,5 +1,5 @@
 # hello-world
-the begining
+The beginning
 
 Greetings Mortals!
 
